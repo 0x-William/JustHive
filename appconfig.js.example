@@ -1,0 +1,4 @@
+module.exports = {
+  WSOCKET: 'http://localhost:3030',
+  GOOGLE_API_KEY: 'AIzaSyDuJ7e2ISzfl_Lp8A_ues6oa3gqulMsOo8'
+};

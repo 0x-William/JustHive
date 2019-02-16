@@ -1,0 +1,1 @@
+export { PhotoEditControlView } from './PhotoEditControlView';

@@ -1,0 +1,1 @@
+export { CommentFullInputView } from './CommentFullInputView';

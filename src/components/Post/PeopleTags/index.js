@@ -1,0 +1,1 @@
+export { PeopleTags } from './PeopleTags';

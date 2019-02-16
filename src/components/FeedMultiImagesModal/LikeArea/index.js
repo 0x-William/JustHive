@@ -1,0 +1,1 @@
+export { LikeArea } from './LikeArea';

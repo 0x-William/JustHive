@@ -1,0 +1,1 @@
+export { PostOnSocials } from './PostOnSocials';

@@ -1,0 +1,1 @@
+export { PeoplesView } from './PeoplesView';

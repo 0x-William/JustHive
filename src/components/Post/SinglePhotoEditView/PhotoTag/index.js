@@ -1,0 +1,1 @@
+export { PhotoTag } from './PhotoTag';
